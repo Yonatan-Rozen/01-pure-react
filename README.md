@@ -7,7 +7,7 @@
 ## Description
 
 This project includes using react in its pure form\
-With the most basic hooks (useState & useEffect)
+With examples of the most basic hooks (useState & useEffect)
 
 ### Runs the app by :
 
